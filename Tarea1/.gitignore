@@ -1,0 +1,5 @@
+# Ignorar el modelo de Draw
+*.drawio
+
+# Ignorar .txt de las preguntas
+Preguntas_negocio.txt
