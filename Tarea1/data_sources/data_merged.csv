@@ -1,0 +1,19 @@
+dni_alumno;id_asignatura;dni_catedratico;fecha_registro;promedio;periodo;anio;nombre_catedratico;fecha_nacimiento_x;genero_x;nombre_asignatura;id_departamento;nombre_departamento;nombre_alumno;fecha_nacimiento_y;genero_y;id_carrera;nombre_carrera
+1679-2001-57399;PP-003;3132-1987-54944;12/14/2020;94.5;3;2020;Arnold Muffen;7/2/1987;Male;Programacion I;MM;Matematica;Margie Nyssens;5/16/2001;Female;ING-IE;Ingenieria Electrica
+1679-2001-57399;PP-003;3132-1987-54944;12/14/2020;94.5;3;2020;Arnold Muffen;7/2/1987;Male;Programacion I;MM;Matematica;Margie Nyssens;5/16/2001;Female;ING-IE;Ingenieria Electrica
+1679-2001-57399;MM-110;8177-1971-05435;5/4/2020;80.0;1;2020;Tan Dowling;1/21/1971;Male;Matematica I;MM;Matematica;Margie Nyssens;5/16/2001;Female;ING-IE;Ingenieria Electrica
+9780-1995-53373;PP-003;3132-1987-54944;12/14/2020;90.0;3;2020;Arnold Muffen;7/2/1987;Male;Programacion I;MM;Matematica;Analiese Sackey;10/29/1995;Female;ING-IE;Ingenieria Electrica
+9780-1995-53373;PP-003;3132-1987-54944;12/14/2020;90.0;3;2020;Arnold Muffen;7/2/1987;Male;Programacion I;MM;Matematica;Analiese Sackey;10/29/1995;Female;ING-IE;Ingenieria Electrica
+3963-2002-29205;PP-003;3185-1969-68586;12/13/2020;95.0;3;2020;Alicea Van Giffen;1/12/1969;Female;Programacion I;MM;Matematica;Ram Sommerville;8/15/2002;Male;ING-IE;Ingenieria Electrica
+3963-2002-29205;PP-003;3185-1969-68586;5/5/2020;60.0;1;2020;Alicea Van Giffen;1/12/1969;Female;Programacion I;MM;Matematica;Ram Sommerville;8/15/2002;Male;ING-IE;Ingenieria Electrica
+1622-2003-76390;PP-003;8177-1971-05435;5/5/2021;54.0;1;2021;Tan Dowling;1/21/1971;Male;Programacion I;MM;Matematica;Ganny Caveill;2/5/2003;Male;LIC-MM;Licenciatura en Matematica
+4513-2005-15937;MM-110;3132-1987-54944;12/14/2020;92.5;3;2020;Arnold Muffen;7/2/1987;Male;Matematica I;MM;Matematica;Claudius Keyhoe;12/31/2005;Male;ING-IE;Ingenieria Electrica
+4513-2005-15937;MM-110;3132-1987-54944;12/14/2020;92.5;3;2020;Arnold Muffen;7/2/1987;Male;Matematica I;MM;Matematica;Claudius Keyhoe;12/31/2005;Male;ING-IE;Ingenieria Electrica
+7953-2002-40541;MM-110;3132-1987-54944;5/6/2020;60.5;1;2020;Arnold Muffen;7/2/1987;Male;Matematica I;MM;Matematica;Caitrin Galbraith;12/7/2002;Female;ING-IE;Ingenieria Electrica
+6877-1999-84575;MM-110;3132-1987-54944;5/4/2020;64.2;1;2020;Arnold Muffen;7/2/1987;Male;Matematica I;MM;Matematica;Delano Bulward;8/29/1999;Male;ING-IE;Ingenieria Electrica
+0372-2004-69530;MM-110;3185-1969-68586;12/14/2020;61.2;3;2020;Alicea Van Giffen;1/12/1969;Female;Matematica I;MM;Matematica;Ellsworth Nibley;1/26/2004;Male;ING-IE;Ingenieria Electrica
+0372-2004-69530;MM-110;3185-1969-68586;12/14/2020;61.2;3;2020;Alicea Van Giffen;1/12/1969;Female;Matematica I;MM;Matematica;Ellsworth Nibley;1/26/2004;Male;ING-IE;Ingenieria Electrica
+7219-1992-14916;MM-110;8177-1971-05435;5/5/2021;94.0;1;2021;Tan Dowling;1/21/1971;Male;Matematica I;MM;Matematica;Brenn Fulham;5/29/1992;Female;LIC-MM;Licenciatura en Matematica
+8675-2005-35773;DP-120;1049-1969-32925;12/14/2020;95.1;3;2020;Bentley Izon;12/4/1969;Male;Derecho Penal;DD;Derecho;Bailey Rearden;3/29/2005;Male;DD-PP;Derecho
+8675-2005-35773;DP-120;1049-1969-32925;12/14/2020;95.1;3;2020;Bentley Izon;12/4/1969;Male;Derecho Penal;DD;Derecho;Bailey Rearden;3/29/2005;Male;DD-PP;Derecho
+9040-1996-91077;DP-120;1049-1969-32925;5/5/2021;95.0;1;2021;Bentley Izon;12/4/1969;Male;Derecho Penal;DD;Derecho;Courtnay Rawdall;11/30/1996;Female;DD-PP;Derecho
