@@ -4,7 +4,7 @@
 
 Analizar información académica, con la finalidad de responder 3 preguntas de negocio.
 
-##Preguntas de negocio
+## Preguntas de negocio
 
 - ¿Cuál es el mejor promedio de cada carrera durante el año?
 - ¿Cuál es el Catedrático con mayor cantidad de reprobados en cada asignatura por periodo de cada año?
